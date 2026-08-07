@@ -5,7 +5,7 @@ This repo contains everything from today's workshop: the exact prompts, the Git 
 > Clone this repo, or just copy the sections below directly.
 
 ```bash
-git clone <this-repo-url>
+git clone <https://github.com/Chethan814/Portfolio-Workshop.git>
 ```
 
 ---
